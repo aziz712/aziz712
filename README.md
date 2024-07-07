@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aziz Slama</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz712&show_icons=true&locale=en&layout=compact" alt="aziz712" /></p> <br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz712&show_icons=true&locale=en&layout=compact" alt="aziz712" /></p> <br/><br/> <br/><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz712&show_icons=true&locale=en" alt="aziz712" /></p> <br/><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=xStephx&theme=shadow_red&hide_border=false) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aziz712&theme=shadow_red&hide_border=false) <br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz712&label=Profile%20views&color=0e75b6&style=flat" alt="aziz712" /> </p> 
 <br>
