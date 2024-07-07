@@ -11,7 +11,6 @@
 
 
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aziz712&theme=shadow-red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
 
 
@@ -31,7 +30,7 @@
 <a href="https://www.linkedin.com/in/slama-mohamed-aziz-94b965200/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/slama-mohamed-aziz-94b965200/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamedaziz.slama.3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamedaziz.slama.3/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohamedazizslamaa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamedazizslamaa/" height="30" width="40" /></a>
-<a href="https://discord.gg/azizslama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="azizslama" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
