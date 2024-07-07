@@ -9,7 +9,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz712&show_icons=true&locale=en" alt="aziz712" /></p> <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aziz712&theme=shadow_red&hide_border=false) <br/>
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aziz712&theme=shadow-red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
 
 
 
